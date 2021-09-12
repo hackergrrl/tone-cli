@@ -1,0 +1,12 @@
+{
+  "name": "tone",
+  "description": "generate a tone at a particular frequency",
+  "version": "0.0.0",
+  "bin": {
+    "tone": "cli.js"
+  },
+  "dependencies": {
+    "baudio": "^2.1.4",
+    "minimist": "^1.2.5"
+  }
+}
