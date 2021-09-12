@@ -1,5 +1,5 @@
 {
-  "name": "tone",
+  "name": "tone-cli",
   "description": "generate a tone at a particular frequency",
   "version": "0.0.0",
   "bin": {
